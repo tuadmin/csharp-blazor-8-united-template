@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorWeb.Server", "ServidorWeb.Server\ServidorWeb.Server.csproj", "{F9889A5C-2D44-4653-AE99-65BE73846DCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorWeb.Client", "ServidorWeb.Client\ServidorWeb.Client.csproj", "{F113A76E-4A1B-408B-A65E-EB88F8CA29C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServidorWeb.Shared", "ServidorWeb.Shared\ServidorWeb.Shared.csproj", "{ABB90A4E-2D15-49AC-BB8E-D6D4829898B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9889A5C-2D44-4653-AE99-65BE73846DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9889A5C-2D44-4653-AE99-65BE73846DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9889A5C-2D44-4653-AE99-65BE73846DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9889A5C-2D44-4653-AE99-65BE73846DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F113A76E-4A1B-408B-A65E-EB88F8CA29C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F113A76E-4A1B-408B-A65E-EB88F8CA29C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F113A76E-4A1B-408B-A65E-EB88F8CA29C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F113A76E-4A1B-408B-A65E-EB88F8CA29C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABB90A4E-2D15-49AC-BB8E-D6D4829898B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB90A4E-2D15-49AC-BB8E-D6D4829898B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB90A4E-2D15-49AC-BB8E-D6D4829898B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB90A4E-2D15-49AC-BB8E-D6D4829898B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
